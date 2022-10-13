@@ -1,4 +1,4 @@
-# This repository is about how make a heart using HTML & CSS.
+# This repository is about how to make a heart using HTML & CSS.
 
 ## Clone the repository
 ```
